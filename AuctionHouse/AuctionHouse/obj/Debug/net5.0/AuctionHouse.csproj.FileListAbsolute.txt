@@ -1,0 +1,64 @@
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.exe
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.deps.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.dev.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\ref\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.pdb
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\ref\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.pdb
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.genruntimeconfig.cache
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.exe
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.deps.json
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.json
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.dev.json
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.dll
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\ref\AuctionHouse.dll
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.pdb
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csprojAssemblyReference.cache
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfoInputs.cache
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfo.cs
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.CoreCompileInputs.cache
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.dll
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\ref\AuctionHouse.dll
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.pdb
+Z:\Desktop\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.exe
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.deps.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.dev.json
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\ref\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\bin\Debug\net5.0\AuctionHouse.pdb
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\ref\AuctionHouse.dll
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.pdb
+C:\Users\benhu\Desktop\Cab201\Assessment 2\AuctionHouse - Copy\AuctionHouse\obj\Debug\net5.0\AuctionHouse.genruntimeconfig.cache
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.exe
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.deps.json
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.json
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.runtimeconfig.dev.json
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.dll
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\ref\AuctionHouse.dll
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\bin\Debug\net5.0\AuctionHouse.pdb
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.AssemblyReference.cache
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfoInputs.cache
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.AssemblyInfo.cs
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.csproj.CoreCompileInputs.cache
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.dll
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\ref\AuctionHouse.dll
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.pdb
+E:\Ben\Uni\2. Semester 2\Cab201\Assessment 2\AuctionHouse\AuctionHouse\obj\Debug\net5.0\AuctionHouse.genruntimeconfig.cache
